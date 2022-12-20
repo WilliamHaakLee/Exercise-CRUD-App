@@ -1,1 +1,1 @@
-# CRUD-SoloProject
+# Exercise-SoloProject
